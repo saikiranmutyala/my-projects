@@ -1,2 +1,2 @@
 # my-projects
-This repositorie contains the projects that i worked on
+This repository contains the projects that i worked on
